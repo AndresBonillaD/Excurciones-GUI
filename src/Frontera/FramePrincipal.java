@@ -112,7 +112,7 @@ public class FramePrincipal extends javax.swing.JFrame {
 
 
     private void ExcurcionesActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_ExcurcionesActionPerformed
-        panelPrincipal.setVisible(false);
+        panelPrincipal.setVisible(false);afasdfasdfasdfasdfasdfasdfasdfa
         panelPrincipal.removeAll();
         panelPrincipal.add(excurcionesDisplay);
         panelPrincipal.setVisible(true);
